@@ -1,0 +1,26 @@
+group 'com.spike'
+version '1.0-SNAPSHOT'
+
+buildscript {
+
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'war'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly "org.projectlombok:lombok:1.16.16"
+    testCompile 'org.junit.platform:junit-jupiter-api:5.0.1'
+    testCompile "org.mockito:mockito-core:2.+"
+}

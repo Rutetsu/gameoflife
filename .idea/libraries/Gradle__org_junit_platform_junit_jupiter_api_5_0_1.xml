@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.junit.platform:junit-jupiter-api:5.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Could not find org.junit.platform:junit-jupiter-api:5.0.1.&#13;&#10;Searched in the following locations:&#13;&#10;    https:/repo1.maven.org/maven2/org/junit/platform/junit-jupiter-api/5.0.1/junit-jupiter-api-5.0.1.pom&#13;&#10;    https:/repo1.maven.org/maven2/org/junit/platform/junit-jupiter-api/5.0.1/junit-jupiter-api-5.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
